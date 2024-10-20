@@ -1,0 +1,8 @@
+python-dotenv
+streamlit
+langchain
+langchain-community
+langchain_huggingface
+huggingface_hub
+faiss-cpu
+tensorflow
